@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/38.6c.iml" filepath="$PROJECT_DIR$/38.6c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/disruptor/disruptor.iml" filepath="$PROJECT_DIR$/disruptor/disruptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disruptor-demo/disruptor-demo.iml" filepath="$PROJECT_DIR$/disruptor-demo/disruptor-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-client/netty-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-common/netty-common.iml" filepath="$PROJECT_DIR$/netty-common/netty-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-server/netty-server.iml" />
